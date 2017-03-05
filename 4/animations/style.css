@@ -1,0 +1,14 @@
+p{
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-fill-mode:forwards;
+  animation-timing-function: cubic-bezier(0,-0.13, 1,-0.44);
+}
+@keyframes slidein {
+  from {
+    margin-right: 100%;
+    width:100%;
+  }
+  to {margin-left: 300%;
+  width:500%;}
+}
