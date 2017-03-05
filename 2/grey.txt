@@ -1,0 +1,52 @@
+color: #eee - grey
+
+inherit - from the parent - overrides the changes
+crossed style - if it was inherited
+
+lorem 5 - # of words
+
+p<a - tab
+
+span - for line - width of the content
+
+
+block - div
+
+id - # - just one, ccreated for JS
+
+css - cascade - the last is priority
+
+
+300*300
+
+div<class<div.class<id
+
+6значный - 000000 - black
+если повтор€ютс€ 3 последние - put only 3 first
+
+width can be in %
+
+em - относительно шрифта страницы
+rem - относительно шрифта родител€
+
+start with divs: header; body (main); footer.
+
+to simple the usage
+
+margin 10px 20px
+max-width
+margin: 0 auto
+только по центру
+не по высоте
+
+
+after head - add link tab
+
+type: .header - tab
+.main - tab
+
+computed - for the exact element
+
+засечки - без засечек - sans-serif - гротеск
+
+image - Inspect - Network - re-fresh - IMG - look through the images

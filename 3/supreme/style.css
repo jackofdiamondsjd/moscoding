@@ -1,0 +1,54 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+html {
+  background:  black url(images/blackback.gif) center no-repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  height: 100%;
+  }
+body {
+  background-color: black;
+  max-width: 300px;
+  margin: 0 auto;
+  font-family: "Courier New", Courier, Monaco, sans-serif;
+  font-size: 12px;
+  color: white;
+}
+header{
+  margin-top: 300px;
+  margin-bottom: 70px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+footer {
+  margin-top:50px;
+}
+main {
+  font-size: 11px;
+}
+
+li {
+  margin-top: 20px;
+  transition-property: background-color;
+  transition-duration: 3s;
+}
+li:hover {
+  background-color: red;
+  color: white;
+}
+footer img{
+  width: 10px;
+  opacity: 0.2;
+}
+footer img:hover{
+  opacity: 1;
+}
+@media screen and (max-width: 320px) {
+  .header {
+    margin-top: 70px;
+    }}

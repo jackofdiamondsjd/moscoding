@@ -1,0 +1,7 @@
+@media - screen - for mobile devices
+
+print - for turning pics
+
+<nav> - for search engines navigation - mostly for semantic stuff
+
+popup - target - blank - new tab

@@ -1,0 +1,19 @@
+add the link to the reset - css - before all the links
+chrome plugin - линейка - ruler - or life style  - saves css in the atom automatically
+
+add dislay block to the <img>
+
+text-align: center - add to body
+
+network - Doc
+minimize the code - instrument
+>> un truncate code
+padding-top  - for hover - he will color only the padding limits
+padding - widen the whole width
+
+
+box-sizing: keeps the width
+scalable vector graphics - SVG
+растровая графика - px/points
+vector graph - directions
+

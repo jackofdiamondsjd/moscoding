@@ -1,0 +1,17 @@
+body {text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 140px;
+}
+img {display: block;
+  opacity: .6;
+}
+img:hover{
+  opacity: 1;
+}
+img:first-of-type{
+
+}/*adds to one first element
+or last-of -type - adds to the last
+/*active - for the drop down*/
+/**/

@@ -1,0 +1,17 @@
+body {
+margin: 0 auto;
+max-width: 500px;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+line-height: 1.5;
+padding: 40px 10px;
+color: #555;
+  }
+
+  h2 {
+   margin-top: 10px;
+   padding-top: 1em;
+  }
+  h1,
+  h2 {
+   color: #333;
+  }
