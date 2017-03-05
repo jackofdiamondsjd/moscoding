@@ -1,14 +1,21 @@
-p{
+.fly{
   animation-duration: 3s;
-  animation-name: slidein;
+  animation-name:fly;
   animation-fill-mode:forwards;
-  animation-timing-function: cubic-bezier(0,-0.13, 1,-0.44);
 }
-@keyframes slidein {
+@keyframes fly {
   from {
-    margin-right: 100%;
-    width:100%;
+    top: 0px;
+    right: 0px;
   }
-  to {margin-left: 300%;
-  width:500%;}
+  to {
+    top: 90%;
+    right: 90%;
+  }
 }
+.fly{
+position:absolute;
+top: 0px;
+right: 0px;
+}
+img{width:70px;}
